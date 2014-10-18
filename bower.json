@@ -1,0 +1,29 @@
+{
+  "name": "tagdemo",
+  "version": "0.0.1",
+  "authors": [
+    "Paul B. <paul@bonaud.fr>"
+  ],
+  "repository": "https://github.com/popox/tagdemo
+  "description": "Testing the Processing.js library",
+  "main": "demo.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Processing",
+    "Processing.js",
+    "GameOfTag"
+  ],
+  "dependencies": {
+    "Processing.js": "*"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
