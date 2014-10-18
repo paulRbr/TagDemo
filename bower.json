@@ -4,7 +4,7 @@
   "authors": [
     "Paul B. <paul@bonaud.fr>"
   ],
-  "repository": "https://github.com/popox/tagdemo
+  "repository": "https://github.com/popox/TagDemo",
   "description": "Testing the Processing.js library",
   "main": "demo.js",
   "moduleType": [
